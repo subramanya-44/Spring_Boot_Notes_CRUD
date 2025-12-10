@@ -56,8 +56,8 @@ Stream (e.g., CSE, ECE)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/subramanya-44/unifeed.git
-cd unifeed
+git clone 
+cd
 ```
 
 ### 2. Configure MySQL Database
